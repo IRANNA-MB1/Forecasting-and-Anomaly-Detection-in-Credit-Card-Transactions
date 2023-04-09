@@ -54,4 +54,9 @@ Step7: Create a control chart to identify anomalies in the data.
 Step8: Use statistical tests (such as the Grubbs test or the Z-score test) to confirm the presence of anomalies.
 Step9: Create a line chart to visualize the anomalies.
 
+**<h2>Dashboard | Power BI</h2>**  
+
+**Desktop View**  
+
+![Credit Card Transactions Analysis](https://user-images.githubusercontent.com/47376889/230768482-141f7f68-8347-479b-bdd5-2faf6ba8b253.JPG)
 

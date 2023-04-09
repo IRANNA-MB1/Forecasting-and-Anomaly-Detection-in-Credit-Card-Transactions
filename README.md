@@ -47,12 +47,11 @@ Kaggle:
 https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction  
 Step2: Download "Credit Card Data Analysis.pbix" file from the repository  
 Step3: Import downloaded .csv file in Power BI Desktop  
-Step4: Use Power Query to clean and transform the data as needed.
-Step5: Create a line chart to visualize transaction volume over time.
-Step6: Use the "Forecasting" function to create a time series model and predict future transaction volume.
-Step7: Create a control chart to identify anomalies in the data.
-Step8: Use statistical tests (such as the Grubbs test or the Z-score test) to confirm the presence of anomalies.
-Step9: Create a line chart to visualize the anomalies.
+Step4: Use Power Query to clean and transform the data as needed.  
+Step5: Create a line chart to visualize transaction volume over time.  
+Step6: Use the "Forecasting" function to create a time series model and predict future transaction volume.  
+Step7: Create a control chart to identify anomalies in the data.  
+Step8: Create a line chart to visualize the anomalies.  
 
 **<h2>Dashboard | Power BI</h2>**  
 
